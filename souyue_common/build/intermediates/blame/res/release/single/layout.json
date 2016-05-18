@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue_common\\build\\intermediates\\res\\merged\\release\\layout\\comm_dialog.xml",
+        "source": "F:\\workspace\\souyue_android\\souyue_common\\src\\main\\res\\layout\\comm_dialog.xml"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue_common\\build\\intermediates\\res\\merged\\release\\layout\\phone_info.xml",
+        "source": "F:\\workspace\\souyue_android\\souyue_common\\build\\intermediates\\exploded-aar\\souyue_android\\cbug_lib\\unspecified\\res\\layout\\phone_info.xml"
+    }
+]

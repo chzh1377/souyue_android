@@ -1,0 +1,124 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
+    defaultConfig {
+        applicationId "com.zhongsou.souyue"
+        minSdkVersion 14
+        targetSdkVersion 21
+        versionCode 75
+        versionName '5.2.0'
+        signingConfig signingConfigs.debug
+//        multiDexEnabled true  开启分包
+    }
+
+    signingConfigs {
+        release {
+            keyAlias 'com.zhongsou.souyue'
+            keyPassword 'therycom'
+            storeFile file('../keystore/souyue-release.keystore')
+            storePassword 'therycom'
+        }
+        debug {
+            keyAlias 'androiddebugkey'
+            keyPassword 'android'
+            storeFile file('../keystore/debug.keystore')
+            storePassword 'android'
+        }
+    }
+
+    dexOptions {
+        jumboMode = true
+        javaMaxHeapSize "2g"
+
+    }
+    lintOptions {
+        abortOnError false
+        checkReleaseBuilds false
+        checkAllWarnings false
+    }
+    productFlavors {
+        zhongsou {
+            manifestPlaceholders = [UMENG_CHANNEL_VALUE: "中搜"]
+        }
+    }
+
+    buildTypes {
+        release {
+            manifestPlaceholders = [UMENG_APPKEY_VALUE: "53df1464fd98c5bdfc000b6d",
+                                    ZSSDK_APPKEY_VALUE: "125c9343c67a3da5fb935d91dada3062",
+                                    JPUSH_APPKEY_VALUE: "3cdfcef33dd2355b096ca940",
+                                    MAP_API_KEY_VALUE: "d76ce2ea787d4a0f1bdae3c3d8faa3b6"]
+            buildConfigField "String", "MIPUSH_APP_ID", '"2882303761517127449"'
+            buildConfigField "String", "MIPUSH_APP_KEY", '"5321712760449"'
+            //搜悦接口服务器环境： 0-测试环境，1-预上线环境， 2-线上环境，3-开发环境 4-搜索预上线环境
+            resValue("string","souyue_interface_env","2")
+            signingConfig signingConfigs.release
+            proguardFile '../proguard.properties'
+        }
+        debug {
+            manifestPlaceholders = [UMENG_APPKEY_VALUE: "53df1464fd98c5bdfc000b6d",
+                                    ZSSDK_APPKEY_VALUE: "33d537cb2a31824346fc6e47a37a8255",
+                                    JPUSH_APPKEY_VALUE: "3cdfcef33dd2355b096ca940",
+                                    MAP_API_KEY_VALUE: "d76ce2ea787d4a0f1bdae3c3d8faa3b6"]
+            buildConfigField "String", "MIPUSH_APP_ID", '"2882303761517127449"'
+            buildConfigField "String", "MIPUSH_APP_KEY", '"5321712760449"'
+            //搜悦接口服务器环境： 0-测试环境，1-预上线环境， 2-线上环境，3-开发环境 4-搜索预上线环境
+            resValue("string","souyue_interface_env","0")
+            proguardFile '../proguard.properties'
+            signingConfig signingConfigs.debug
+        }
+
+        dev {
+            initWith(buildTypes.debug)
+            resValue("string","souyue_interface_env","3")
+        }
+
+        preline {
+            initWith(buildTypes.debug)
+            resValue("string","souyue_interface_env","1")
+        }
+
+        oneline {
+            initWith(buildTypes.debug)
+            resValue("string","souyue_interface_env","2")
+        }
+
+        debugWithProguard{
+            manifestPlaceholders = [UMENG_APPKEY_VALUE: "53df1464fd98c5bdfc000b6d",
+                                    ZSSDK_APPKEY_VALUE: "125c9343c67a3da5fb935d91dada3062",
+                                    JPUSH_APPKEY_VALUE: "3cdfcef33dd2355b096ca940",
+                                    MAP_API_KEY_VALUE: "d76ce2ea787d4a0f1bdae3c3d8faa3b6"]
+            buildConfigField "String", "MIPUSH_APP_ID", '"2882303761517127449"'
+            buildConfigField "String", "MIPUSH_APP_KEY", '"5321712760449"'
+            //搜悦接口服务器环境： 0-测试环境，1-预上线环境， 2-线上环境，3-开发环境 4-搜索预上线环境
+            signingConfig signingConfigs.release
+            resValue("string","souyue_interface_env","0")
+            proguardFile '../proguard.properties'
+        }
+        preonlineWithProguardAndSign{
+            manifestPlaceholders = [UMENG_APPKEY_VALUE: "53df1464fd98c5bdfc000b6d",
+                                    ZSSDK_APPKEY_VALUE: "125c9343c67a3da5fb935d91dada3062",
+                                    JPUSH_APPKEY_VALUE: "3cdfcef33dd2355b096ca940",
+                                    MAP_API_KEY_VALUE: "d76ce2ea787d4a0f1bdae3c3d8faa3b6"]
+            buildConfigField "String", "MIPUSH_APP_ID", '"2882303761517127449"'
+            buildConfigField "String", "MIPUSH_APP_KEY", '"5321712760449"'
+            //搜悦接口服务器环境： 0-测试环境，1-预上线环境， 2-线上环境，3-开发环境 4-搜索预上线环境
+            signingConfig signingConfigs.release
+            resValue("string","souyue_interface_env","1")
+            proguardFile '../proguard.properties'
+        }
+
+    }
+}
+
+dependencies {
+    //    compile files('libs/okhttp-3.0.1.jar')
+    //    compile files('libs/okio-1.6.0.jar')
+    compile files('libs/souyue-3rd-all.jar')
+    compile project(':fresco')
+    compile project(':souyue_common')
+    compile project(':tuitaSDK')
+//    compile files('libs/android-support-multidex.jar') // 开启分包
+}

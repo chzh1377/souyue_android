@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\menu\\menu.xml",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\menu\\yao_wen.xml",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\menu\\yao_wen.xml"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\menu\\exit_menu.xml",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\menu\\exit_menu.xml"
+    }
+]

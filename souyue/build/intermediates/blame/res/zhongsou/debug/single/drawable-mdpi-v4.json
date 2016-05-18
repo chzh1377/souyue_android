@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\sub_group_rss_selected.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\drawable-mdpi\\sub_group_rss_selected.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\sub_group_rss_normal.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\drawable-mdpi\\sub_group_rss_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\sub_group_subject_selected.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\drawable-mdpi\\sub_group_subject_selected.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\sub_group_subject_normal.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\drawable-mdpi\\sub_group_subject_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\phone_info.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\exploded-aar\\souyue_android\\cbug_lib\\unspecified\\res\\drawable-mdpi-v4\\phone_info.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\exploded-aar\\souyue_android\\fresco\\unspecified\\res\\drawable-mdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\sub_group_interest_normal.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\drawable-mdpi\\sub_group_interest_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-mdpi-v4\\sub_group_interest_selected.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\drawable-mdpi\\sub_group_interest_selected.png"
+    }
+]

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\workspace\souyue_android\souyue\src\main\shaders"/></dataSet><dataSet config="zhongsou"><source path="F:\workspace\souyue_android\souyue\src\zhongsou\shaders"/></dataSet><dataSet config="debug"><source path="F:\workspace\souyue_android\souyue\src\debug\shaders"/></dataSet><dataSet config="zhongsouDebug"><source path="F:\workspace\souyue_android\souyue\src\zhongsouDebug\shaders"/></dataSet></merger>

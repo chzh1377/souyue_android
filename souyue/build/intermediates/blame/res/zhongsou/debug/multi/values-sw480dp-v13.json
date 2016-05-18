@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\exploded-aar\\souyue_android\\cbug_lib\\unspecified\\res\\values-sw480dp-v13\\values-sw480dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="120dp"
+    android:padding="5.0dip"
+    android:gravity="center"
+    android:id="@+id/rl_setfontsize"
+    android:orientation="vertical"
+    >
+
+
+    <LinearLayout
+        android:id="@+id/ll_setviewlight"
+        android:gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:src="@drawable/ismall_typebar_details"
+            />
+        <SeekBar
+            android:id="@+id/light_seekBar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:maxHeight="10.0dip"
+            android:minHeight="4.0dip"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:progress="75"
+            android:max="255"
+            android:layout_weight="1"
+            android:thumb="@drawable/roll_typebar_details"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/ibig_typebar_details"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_toLeftOf="@+id/ll_setviewlight"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginBottom="3dp"
+            android:src="@drawable/asmall_typebar_details"
+            />
+        <com.xuxh.slideselectview.SlideSelectView
+            android:id="@+id/slideSelectView"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            app:circleCount="5"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="3dp"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/abig_typebar_details"
+            />
+        </LinearLayout>
+
+</LinearLayout>

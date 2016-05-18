@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\dragGridView\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\workspace\\souyue_android\\dragGridView\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\dragGridView\\build\\intermediates\\res\\merged\\debug\\layout\\grid_item.xml",
+        "source": "F:\\workspace\\souyue_android\\dragGridView\\src\\main\\res\\layout\\grid_item.xml"
+    }
+]

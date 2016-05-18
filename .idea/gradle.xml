@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\迅雷下载\android-studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/cbug_lib" />
+            <option value="$PROJECT_DIR$/dragGridView" />
+            <option value="$PROJECT_DIR$/fresco" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/library_SlidingMenu" />
+            <option value="$PROJECT_DIR$/multiSearch" />
+            <option value="$PROJECT_DIR$/pullToRefreshListFragment" />
+            <option value="$PROJECT_DIR$/pullToRefreshViewPager" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/sampleAdapter" />
+            <option value="$PROJECT_DIR$/souyue" />
+            <option value="$PROJECT_DIR$/souyue_common" />
+            <option value="$PROJECT_DIR$/topNews" />
+            <option value="$PROJECT_DIR$/tuitaSDK" />
+            <option value="$PROJECT_DIR$/xListView" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/cbug_lib" />
+            <option value="$PROJECT_DIR$/dragGridView" />
+            <option value="$PROJECT_DIR$/fresco" />
+            <option value="$PROJECT_DIR$/library" />
+            <option value="$PROJECT_DIR$/library_SlidingMenu" />
+            <option value="$PROJECT_DIR$/multiSearch" />
+            <option value="$PROJECT_DIR$/pullToRefreshListFragment" />
+            <option value="$PROJECT_DIR$/pullToRefreshViewPager" />
+            <option value="$PROJECT_DIR$/sample" />
+            <option value="$PROJECT_DIR$/sampleAdapter" />
+            <option value="$PROJECT_DIR$/souyue" />
+            <option value="$PROJECT_DIR$/souyue_common" />
+            <option value="$PROJECT_DIR$/topNews" />
+            <option value="$PROJECT_DIR$/tuitaSDK" />
+            <option value="$PROJECT_DIR$/xListView" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

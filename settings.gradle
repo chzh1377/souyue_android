@@ -1,0 +1,8 @@
+include ':app', ':tuitaSDK', 'souyue', ':cbug_lib', ':souyue_common', ':fresco', ':xListView', 'app2', 'sampleAdapter', 'multiSearch'
+include ':library'
+include ':pullToRefreshListFragment'
+include ':pullToRefreshViewPager'
+include ':sample'
+include ':library_SlidingMenu'
+include ':topNews'
+include ':dragGridView'

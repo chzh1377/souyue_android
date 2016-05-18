@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue_common\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\souyue_android\\souyue_common\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue_common\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\phone_info.png",
+        "source": "F:\\workspace\\souyue_android\\souyue_common\\build\\intermediates\\exploded-aar\\souyue_android\\cbug_lib\\unspecified\\res\\drawable-hdpi-v4\\phone_info.png"
+    }
+]

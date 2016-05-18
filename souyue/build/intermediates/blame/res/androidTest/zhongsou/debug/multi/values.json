@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\androidTest\\zhongsou\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "F:\\workspace\\souyue_android\\souyue\\build\\generated\\res\\resValues\\androidTest\\zhongsou\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 71,
+                        "endOffset": 229
+                    }
+                }
+            }
+        ]
+    }
+]

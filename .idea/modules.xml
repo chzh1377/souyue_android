@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cbug_lib/cbug_lib.iml" filepath="$PROJECT_DIR$/cbug_lib/cbug_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dragGridView/dragGridView.iml" filepath="$PROJECT_DIR$/dragGridView/dragGridView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fresco/fresco.iml" filepath="$PROJECT_DIR$/fresco/fresco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library_SlidingMenu/library_SlidingMenu.iml" filepath="$PROJECT_DIR$/library_SlidingMenu/library_SlidingMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiSearch/multiSearch.iml" filepath="$PROJECT_DIR$/multiSearch/multiSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshListFragment/pullToRefreshListFragment.iml" filepath="$PROJECT_DIR$/pullToRefreshListFragment/pullToRefreshListFragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshViewPager/pullToRefreshViewPager.iml" filepath="$PROJECT_DIR$/pullToRefreshViewPager/pullToRefreshViewPager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleAdapter/sampleAdapter.iml" filepath="$PROJECT_DIR$/sampleAdapter/sampleAdapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/souyue/souyue.iml" filepath="$PROJECT_DIR$/souyue/souyue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/souyue_android.iml" filepath="$PROJECT_DIR$/souyue_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/souyue_common/souyue_common.iml" filepath="$PROJECT_DIR$/souyue_common/souyue_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topNews/topNews.iml" filepath="$PROJECT_DIR$/topNews/topNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tuitaSDK/tuitaSDK.iml" filepath="$PROJECT_DIR$/tuitaSDK/tuitaSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xListView/xListView.iml" filepath="$PROJECT_DIR$/xListView/xListView.iml" />
+    </modules>
+  </component>
+</project>

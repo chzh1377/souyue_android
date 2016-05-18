@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\souyue_android\\library\\unspecified\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\souyue_android\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\souyue_android\\library\\unspecified\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    }
+]

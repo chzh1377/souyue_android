@@ -1,0 +1,1114 @@
+{
+  "love": {
+    "sexList": [
+      {
+        "name": "男",
+        "key": "manLoveList",
+        "image": "asset:///leaderpage/pageone/sex_nan.png"
+      },
+      {
+        "name": "女",
+        "key": "womanLoveList",
+        "image": "asset:///leaderpage/pageone/sex_nv.png"
+      }
+    ],
+    "manLoveList": [
+      {
+        "name": "学生党",
+        "image": "asset:///leaderpage/pagetwo/xiaoxuedi.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nan/xueshengdang.png"
+      },
+      {
+        "name": "工作汪",
+        "image": "asset:///leaderpage/pagetwo/gongzuowang.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nan/gongzuowang.png"
+      },
+      {
+        "name": "文艺咖",
+        "image": "asset:///leaderpage/pagetwo/wenyika.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nan/wenyika.png"
+      },
+      {
+        "name": "有为叔",
+        "image": "asset:///leaderpage/pagetwo/guaishushu.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nan/youweishu.png"
+      },
+      {
+        "name": "中老年",
+        "image": "asset:///leaderpage/pagetwo/laozhangtou.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nan/zhonglaonian.png"
+      },
+      {
+        "name": "自由派",
+        "image": "asset:///leaderpage/pagetwo/ziyoubang.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nan/ziyoupai.png"
+      }
+    ],
+    "womanLoveList": [
+      {
+        "name": "学生妹",
+        "image": "asset:///leaderpage/pagetwo/xiaoxuedi.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nv/xueshengmei.png"
+      },
+      {
+        "name": "上班族",
+        "image": "asset:///leaderpage/pagetwo/gongzuowang.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nv/gongzuobiao.png"
+      },
+      {
+        "name": "文艺咖",
+        "image": "asset:///leaderpage/pagetwo/wenyika.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nv/wenyika.png"
+      },
+      {
+        "name": "辣妈",
+        "image": "asset:///leaderpage/pagetwo/lama.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nv/lama.png"
+      },
+      {
+        "name": "美阿姨",
+        "image": "asset:///leaderpage/pagetwo/meiayi.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nv/meiayi.png"
+      },
+      {
+        "name": "自由派",
+        "image": "asset:///leaderpage/pagetwo/ziyoubang.png",
+        "bigImage": "asset:///leaderpage/pagetwo/nv/ziyoupai.png"
+      }
+    ]
+  },
+  "childGroupMap": {
+    "男_学生党": [
+      {
+        "keyword": "探索",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/tansuo.png"
+      },
+      {
+        "keyword": "女神",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/nvshen.png"
+      },
+      {
+        "keyword": "大学生",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/daxuesheng.png"
+      },
+      {
+        "keyword": "XXOO",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/XXOO.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "00后",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/00hou.png"
+      },
+      {
+        "keyword": "动漫",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/dongman.png"
+      },
+      {
+        "keyword": "游戏",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/youxi.png"
+      },
+      {
+        "keyword": "数码",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shuma.png"
+      },
+      {
+        "keyword": "重口味",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhongkouwei.png"
+      },
+      {
+        "keyword": "美剧",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meiju.png"
+      },
+      {
+        "keyword": "体育",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/tiyu.png"
+      }
+    ],
+    "男_工作汪": [
+      {
+        "keyword": "美食",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "型男",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xingnan.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "健身",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jianshen.png"
+      },
+      {
+        "keyword": "两性",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/liangxing.png"
+      },
+      {
+        "keyword": "数码",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shuma.png"
+      },
+      {
+        "keyword": "美女",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meinv.png"
+      },
+      {
+        "keyword": "健康",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      },
+      {
+        "keyword": "职场",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhichang.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "体育",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/tiyu.png"
+      }
+    ],
+    "男_文艺咖": [
+      {
+        "keyword": "休闲",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xiuxian.png"
+      },
+      {
+        "keyword": "正能量",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhengnengliang.png"
+      },
+      {
+        "keyword": "型男",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xingnan.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "探索",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/tansuo.png"
+      },
+      {
+        "keyword": "美女",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meinv.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "棋牌",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qipai.png"
+      },
+      {
+        "keyword": "摄影",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/sheying.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      },
+      {
+        "keyword": "数码",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shuma.png"
+      },
+      {
+        "keyword": "电影",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/dianying.png"
+      }
+    ],
+    "男_有为叔": [
+      {
+        "keyword": "电影",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/dianying.png"
+      },
+      {
+        "keyword": "美女",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meinv.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "健康",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      },
+      {
+        "keyword": "深度男",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shendunan.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "佛学",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/foxue.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "两性",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/liangxing.png"
+      },
+      {
+        "keyword": "NBA",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/NBA.png"
+      },
+      {
+        "keyword": "亲子",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qinzi.png"
+      },
+      {
+        "keyword": "职场",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhichang.png"
+      }
+    ],
+    "男_中老年": [
+      {
+        "keyword": "健康",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "正能量",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhengnengliang.png"
+      },
+      {
+        "keyword": "追忆",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhuiyi.png"
+      },
+      {
+        "keyword": "鸡汤",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jitang.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      },
+      {
+        "keyword": "休闲",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xiuxian.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "佛学",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/foxue.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "探索",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/tansuo.png"
+      }
+    ],
+    "男_自由派": [
+      {
+        "keyword": "创业",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/chuangye.png"
+      },
+      {
+        "keyword": "美女",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meinv.png"
+      },
+      {
+        "keyword": "互联网",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/hulianwang.png"
+      },
+      {
+        "keyword": "探索",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/tansuo.png"
+      },
+      {
+        "keyword": "两性",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/liangxing.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "车友",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/cheyou.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "体育",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/tiyu.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      }
+    ],
+    "女_学生妹": [
+      {
+        "keyword": "动漫",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/dongman.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      },
+      {
+        "keyword": "八卦",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/bagua.png"
+      },
+      {
+        "keyword": "男神",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/nanshen.png"
+      },
+      {
+        "keyword": "00后",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/00hou.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "XXOO",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/XXOO.png"
+      },
+      {
+        "keyword": "重口味",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhongkouwei.png"
+      },
+      {
+        "keyword": "时尚",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shishang.png"
+      },
+      {
+        "keyword": "星座",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xingzuo.png"
+      },
+      {
+        "keyword": "游戏",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/youxi.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      }
+    ],
+    "女_上班族": [
+      {
+        "keyword": "职场",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhichang.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "八卦",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/bagua.png"
+      },
+      {
+        "keyword": "男神",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/nanshen.png"
+      },
+      {
+        "keyword": "亲子",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qinzi.png"
+      },
+      {
+        "keyword": "情感",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qinggan.png"
+      },
+      {
+        "keyword": "时尚",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shishang.png"
+      },
+      {
+        "keyword": "鸡汤",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jitang.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "健康",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      }
+    ],
+    "女_文艺咖": [
+      {
+        "keyword": "旅游",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      },
+      {
+        "keyword": "电影",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/dianying.png"
+      },
+      {
+        "keyword": "男神",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/nanshen.png"
+      },
+      {
+        "keyword": "星座",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xingzuo.png"
+      },
+      {
+        "keyword": "时尚",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shishang.png"
+      },
+      {
+        "keyword": "健身",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jianshen.png"
+      },
+      {
+        "keyword": "情感",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qinggan.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "小资",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xiaozi.png"
+      },
+      {
+        "keyword": "健康",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      }
+    ],
+    "女_辣妈": [
+      {
+        "keyword": "亲子",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qinzi.png"
+      },
+      {
+        "keyword": "时尚",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/shishang.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "乐活",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lehuo.png"
+      },
+      {
+        "keyword": "情感",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qinggan.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "健康",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      },
+      {
+        "keyword": "电影",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/dianying.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "健身",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jianshen.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      }
+    ],
+    "女_美阿姨": [
+      {
+        "keyword": "健康",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      },
+      {
+        "keyword": "乐活",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lehuo.png"
+      },
+      {
+        "keyword": "鸡汤",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jitang.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "追忆",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhuiyi.png"
+      },
+      {
+        "keyword": "正能量",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhengnengliang.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      },
+      {
+        "keyword": "休闲",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/xiuxian.png"
+      },
+      {
+        "keyword": "佛学",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/foxue.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      }
+    ],
+    "女_自由派": [
+      {
+        "keyword": "男神",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/nanshen.png"
+      },
+      {
+        "keyword": "理财",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/licai.png"
+      },
+      {
+        "keyword": "互联网",
+        "srpId": "1",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/hulianwang.png"
+      },
+      {
+        "keyword": "健康",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jiankang.png"
+      },
+      {
+        "keyword": "宅生活",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/zhaishenghuo.png"
+      },
+      {
+        "keyword": "情感",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/qinggan.png"
+      },
+      {
+        "keyword": "创业",
+        "srpId": "2",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/chuangye.png"
+      },
+      {
+        "keyword": "旅游",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/lvyou.png"
+      },
+      {
+        "keyword": "美食",
+        "srpId": "2555b3dcd0d921f2a6f33012b3872f6c",
+        "category": "srp",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/meishi.png"
+      },
+      {
+        "keyword": "搞笑",
+        "srpId": "fa7a27e372ad3f11f692136b453e3cb0",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/gaoxiao.png"
+      },
+      {
+        "keyword": "健身",
+        "srpId": "3",
+        "category": "group",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/jianshen.png"
+      },
+      {
+        "keyword": "萌宠",
+        "srpId": "2c4288cacdf844c2f25d8406504e97c6",
+        "category": "interest",
+        "isSelected": 0,
+        "image": "asset:///leaderpage/pagethree/mengchong.png"
+      }
+    ]
+  }
+}

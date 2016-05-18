@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\exploded-aar\\souyue_android\\souyue_common\\unspecified\\res\\drawable-xxhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-xxhdpi-v4\\phone_info.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\exploded-aar\\souyue_android\\cbug_lib\\unspecified\\res\\drawable-xxhdpi-v4\\phone_info.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\souyue\\build\\intermediates\\res\\merged\\zhongsou\\debug\\drawable-xxhdpi-v4\\logo.png",
+        "source": "F:\\workspace\\souyue_android\\souyue\\src\\main\\res\\drawable-xxhdpi\\logo.png"
+    }
+]

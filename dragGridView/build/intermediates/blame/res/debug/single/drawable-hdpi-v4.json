@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\dragGridView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\com_tencent_open_notice_msg_icon_big.png",
+        "source": "F:\\workspace\\souyue_android\\dragGridView\\src\\main\\res\\drawable-hdpi\\com_tencent_open_notice_msg_icon_big.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\dragGridView\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\souyue_android\\dragGridView\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

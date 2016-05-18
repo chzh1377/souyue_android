@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\topNews\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\icon.png",
+        "source": "F:\\workspace\\souyue_android\\topNews\\src\\main\\res\\drawable-nodpi\\icon.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\topNews\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\transparent.9.png",
+        "source": "F:\\workspace\\souyue_android\\topNews\\src\\main\\res\\drawable-nodpi\\transparent.9.png"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\topNews\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\top_popu_right_up.9.png",
+        "source": "F:\\workspace\\souyue_android\\topNews\\src\\main\\res\\drawable-nodpi\\top_popu_right_up.9.png"
+    }
+]

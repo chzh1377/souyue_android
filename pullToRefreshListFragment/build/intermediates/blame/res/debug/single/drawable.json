@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\souyue_android\\library\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "F:\\workspace\\souyue_android\\pullToRefreshListFragment\\build\\intermediates\\exploded-aar\\souyue_android\\library\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+    }
+]
